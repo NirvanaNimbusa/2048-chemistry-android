@@ -15,7 +15,7 @@ Play store link: https://play.google.com/store/apps/details?id=com.Misho.Chemist
 
 If you want to build from source just do 
 
-    git clone https://github.com/uberspot/2048-android.git
+    git clone https://github.com/mishop/2048-chemistry-android.git
     cd 2048-chemistry-android/
     git submodule update --recursive 
 
